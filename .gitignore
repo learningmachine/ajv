@@ -36,4 +36,4 @@ lib/dotjs/*.js
 .browser
 
 # bundles
-dist/
+# dist/
